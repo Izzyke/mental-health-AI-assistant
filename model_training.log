@@ -1,0 +1,246 @@
+2025-04-17 14:27:06,319 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 14:27:06,319 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 14:27:06,319 - INFO - Scheduler started
+2025-04-17 14:27:06,336 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.10.29:5000
+2025-04-17 14:27:06,336 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 14:27:06,336 - INFO -  * Restarting with stat
+2025-04-17 14:27:13,493 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 14:27:13,493 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 14:27:13,493 - INFO - Scheduler started
+2025-04-17 14:27:13,498 - WARNING -  * Debugger is active!
+2025-04-17 14:27:13,499 - INFO -  * Debugger PIN: 109-937-469
+2025-04-17 14:27:53,398 - INFO - 192.168.10.29 - - [17/Apr/2025 14:27:53] "GET / HTTP/1.1" 200 -
+2025-04-17 14:27:53,455 - INFO - 192.168.10.29 - - [17/Apr/2025 14:27:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 14:27:53,497 - INFO - 192.168.10.29 - - [17/Apr/2025 14:27:53] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-17 14:27:53,521 - INFO - 192.168.10.29 - - [17/Apr/2025 14:27:53] "[33mGET /cdn-cgi/challenge-platform/scripts/jsd/main.js HTTP/1.1[0m" 404 -
+2025-04-17 14:27:53,523 - INFO - 192.168.10.29 - - [17/Apr/2025 14:27:53] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-04-17 14:28:02,344 - INFO - Prediction for user 192.168.10.29: Model risk=low, Rule-based risk=low
+2025-04-17 14:28:04,667 - INFO - 192.168.10.29 - - [17/Apr/2025 14:28:04] "POST /get_response HTTP/1.1" 200 -
+2025-04-17 14:28:12,980 - INFO - 192.168.10.29 - - [17/Apr/2025 14:28:12] "POST /feedback HTTP/1.1" 200 -
+2025-04-17 14:28:13,092 - INFO - 192.168.10.29 - - [17/Apr/2025 14:28:13] "POST /feedback HTTP/1.1" 200 -
+2025-04-17 14:29:02,750 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 14:29:02,750 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 14:29:02,751 - INFO - Scheduler started
+2025-04-17 14:29:02,763 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.10.29:5000
+2025-04-17 14:29:02,764 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 14:29:02,764 - INFO -  * Restarting with stat
+2025-04-17 14:29:10,126 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 14:29:10,126 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 14:29:10,126 - INFO - Scheduler started
+2025-04-17 14:29:10,131 - WARNING -  * Debugger is active!
+2025-04-17 14:29:10,153 - INFO -  * Debugger PIN: 109-937-469
+2025-04-17 14:29:18,776 - INFO - 192.168.10.29 - - [17/Apr/2025 14:29:18] "GET /trends HTTP/1.1" 200 -
+2025-04-17 14:34:04,639 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 14:34:04,639 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 14:34:04,639 - INFO - Scheduler started
+2025-04-17 14:34:04,652 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.10.29:5000
+2025-04-17 14:34:04,652 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 14:34:04,652 - INFO -  * Restarting with stat
+2025-04-17 14:34:12,107 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 14:34:12,107 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 14:34:12,108 - INFO - Scheduler started
+2025-04-17 14:34:12,113 - WARNING -  * Debugger is active!
+2025-04-17 14:34:12,113 - INFO -  * Debugger PIN: 440-173-951
+2025-04-17 14:34:19,510 - INFO - 192.168.10.29 - - [17/Apr/2025 14:34:19] "GET / HTTP/1.1" 200 -
+2025-04-17 14:34:19,556 - INFO - 192.168.10.29 - - [17/Apr/2025 14:34:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 14:34:19,576 - INFO - 192.168.10.29 - - [17/Apr/2025 14:34:19] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-17 14:34:19,601 - INFO - 192.168.10.29 - - [17/Apr/2025 14:34:19] "[33mGET /cdn-cgi/challenge-platform/scripts/jsd/main.js HTTP/1.1[0m" 404 -
+2025-04-17 14:34:19,607 - INFO - 192.168.10.29 - - [17/Apr/2025 14:34:19] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-04-17 14:34:32,142 - INFO - Prediction for user 192.168.10.29: Model risk=low, Rule-based risk=low
+2025-04-17 14:34:33,343 - INFO - 192.168.10.29 - - [17/Apr/2025 14:34:33] "POST /get_response HTTP/1.1" 200 -
+2025-04-17 14:34:41,958 - INFO - 192.168.10.29 - - [17/Apr/2025 14:34:41] "POST /feedback HTTP/1.1" 200 -
+2025-04-17 14:35:32,776 - INFO -  * Detected change in '/home/israel/Desktop/My_project/App.py', reloading
+2025-04-17 14:35:34,227 - INFO -  * Restarting with stat
+2025-04-17 14:41:21,095 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 14:41:21,095 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 14:41:21,095 - INFO - Scheduler started
+2025-04-17 14:41:21,189 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.10.29:5000
+2025-04-17 14:41:21,189 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 14:41:21,189 - INFO -  * Restarting with stat
+2025-04-17 14:41:29,617 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 14:41:29,617 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 14:41:29,617 - INFO - Scheduler started
+2025-04-17 14:41:29,623 - WARNING -  * Debugger is active!
+2025-04-17 14:41:29,623 - INFO -  * Debugger PIN: 440-173-951
+2025-04-17 14:41:42,229 - INFO - 192.168.10.29 - - [17/Apr/2025 14:41:42] "GET / HTTP/1.1" 200 -
+2025-04-17 14:41:42,310 - INFO - 192.168.10.29 - - [17/Apr/2025 14:41:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 14:41:42,330 - INFO - 192.168.10.29 - - [17/Apr/2025 14:41:42] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-17 14:41:42,378 - INFO - 192.168.10.29 - - [17/Apr/2025 14:41:42] "[33mGET /cdn-cgi/challenge-platform/scripts/jsd/main.js HTTP/1.1[0m" 404 -
+2025-04-17 14:41:42,389 - INFO - 192.168.10.29 - - [17/Apr/2025 14:41:42] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-04-17 14:44:37,810 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 14:44:37,811 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 14:44:37,811 - INFO - Scheduler started
+2025-04-17 14:44:37,823 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.10.29:5000
+2025-04-17 14:44:37,823 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 14:44:37,823 - INFO -  * Restarting with stat
+2025-04-17 14:44:45,488 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 14:44:45,488 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 14:44:45,488 - INFO - Scheduler started
+2025-04-17 14:44:45,493 - WARNING -  * Debugger is active!
+2025-04-17 14:44:45,493 - INFO -  * Debugger PIN: 440-173-951
+2025-04-17 14:44:52,132 - INFO - 192.168.10.29 - - [17/Apr/2025 14:44:52] "GET / HTTP/1.1" 200 -
+2025-04-17 14:44:52,208 - INFO - 192.168.10.29 - - [17/Apr/2025 14:44:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 14:44:52,222 - INFO - 192.168.10.29 - - [17/Apr/2025 14:44:52] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-17 14:44:52,249 - INFO - 192.168.10.29 - - [17/Apr/2025 14:44:52] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-04-17 15:14:53,324 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 15:14:53,324 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 15:14:53,324 - INFO - Scheduler started
+2025-04-17 15:14:53,360 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.10.29:5000
+2025-04-17 15:14:53,361 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 15:14:53,361 - INFO -  * Restarting with stat
+2025-04-17 15:15:00,529 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 15:15:00,529 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 15:15:00,529 - INFO - Scheduler started
+2025-04-17 15:15:00,536 - WARNING -  * Debugger is active!
+2025-04-17 15:15:00,536 - INFO -  * Debugger PIN: 101-737-430
+2025-04-17 15:15:16,753 - INFO - 192.168.10.29 - - [17/Apr/2025 15:15:16] "GET / HTTP/1.1" 200 -
+2025-04-17 15:15:18,330 - INFO - 192.168.10.29 - - [17/Apr/2025 15:15:18] "GET /static/styles.css HTTP/1.1" 200 -
+2025-04-17 15:15:18,454 - INFO - 192.168.10.29 - - [17/Apr/2025 15:15:18] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-17 15:15:18,993 - INFO - 192.168.10.29 - - [17/Apr/2025 15:15:18] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-04-17 15:15:44,880 - INFO - 192.168.10.29 - - [17/Apr/2025 15:15:44] "POST /save_survey HTTP/1.1" 200 -
+2025-04-17 15:15:56,120 - INFO - 192.168.10.29 - - [17/Apr/2025 15:15:56] "POST /save_preferences HTTP/1.1" 200 -
+2025-04-17 15:16:01,599 - INFO - 192.168.10.29 - - [17/Apr/2025 15:16:01] "GET /survey_results HTTP/1.1" 200 -
+2025-04-17 15:16:19,976 - INFO - Prediction for user 192.168.10.29: Model risk=low, Rule-based risk=low
+2025-04-17 15:16:21,215 - ERROR - Error in get_response: no such column: uh.strategy
+2025-04-17 15:16:21,215 - INFO - 192.168.10.29 - - [17/Apr/2025 15:16:21] "[35m[1mPOST /get_response HTTP/1.1[0m" 500 -
+2025-04-17 15:22:04,561 - INFO -  * Detected change in '/home/israel/Desktop/My_project/App.py', reloading
+2025-04-17 15:22:09,361 - INFO -  * Restarting with stat
+2025-04-17 15:22:34,942 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 15:22:34,943 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 15:22:34,943 - INFO - Scheduler started
+2025-04-17 15:22:34,961 - WARNING -  * Debugger is active!
+2025-04-17 15:22:34,972 - INFO -  * Debugger PIN: 101-737-430
+2025-04-17 15:32:33,326 - INFO -  * Detected change in '/home/israel/Desktop/My_project/update_db.py', reloading
+2025-04-17 15:32:34,738 - INFO -  * Restarting with stat
+2025-04-17 15:34:53,990 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 15:34:53,991 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 15:34:53,991 - INFO - Scheduler started
+2025-04-17 15:34:54,008 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.10.29:5000
+2025-04-17 15:34:54,008 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 15:34:54,008 - INFO -  * Restarting with stat
+2025-04-17 15:35:01,246 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-17 15:35:01,247 - INFO - Added job "retrain_model" to job store "default"
+2025-04-17 15:35:01,247 - INFO - Scheduler started
+2025-04-17 15:35:01,253 - WARNING -  * Debugger is active!
+2025-04-17 15:35:01,254 - INFO -  * Debugger PIN: 101-737-430
+2025-04-17 15:35:12,486 - INFO - 192.168.10.29 - - [17/Apr/2025 15:35:12] "GET / HTTP/1.1" 200 -
+2025-04-17 15:35:12,707 - INFO - 192.168.10.29 - - [17/Apr/2025 15:35:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-04-17 15:35:12,734 - INFO - 192.168.10.29 - - [17/Apr/2025 15:35:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-17 15:35:12,774 - INFO - 192.168.10.29 - - [17/Apr/2025 15:35:12] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-04-17 15:35:56,484 - INFO - Prediction for user 192.168.10.29: Model risk=low, Rule-based risk=low
+2025-04-17 15:35:57,774 - INFO - 192.168.10.29 - - [17/Apr/2025 15:35:57] "POST /get_response HTTP/1.1" 200 -
+2025-04-17 15:36:05,162 - INFO - 192.168.10.29 - - [17/Apr/2025 15:36:05] "POST /feedback HTTP/1.1" 200 -
+2025-05-06 15:48:50,410 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-06 15:48:50,484 - INFO - Added job "retrain_model" to job store "default"
+2025-05-06 15:48:50,484 - INFO - Scheduler started
+2025-05-06 15:48:50,574 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.113.87:5000
+2025-05-06 15:48:50,575 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-06 15:48:50,575 - INFO -  * Restarting with stat
+2025-05-06 15:49:04,020 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-06 15:49:04,020 - INFO - Added job "retrain_model" to job store "default"
+2025-05-06 15:49:04,021 - INFO - Scheduler started
+2025-05-06 15:49:04,036 - WARNING -  * Debugger is active!
+2025-05-06 15:49:04,076 - INFO -  * Debugger PIN: 853-669-916
+2025-05-06 15:49:52,205 - INFO - 192.168.113.87 - - [06/May/2025 15:49:52] "GET / HTTP/1.1" 200 -
+2025-05-06 15:49:53,046 - INFO - 192.168.113.87 - - [06/May/2025 15:49:53] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-06 15:49:53,896 - INFO - 192.168.113.87 - - [06/May/2025 15:49:53] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-06 15:49:54,194 - INFO - 192.168.113.87 - - [06/May/2025 15:49:54] "GET /favicon.ico HTTP/1.1" 200 -
+2025-05-06 15:51:28,827 - INFO - 192.168.113.87 - - [06/May/2025 15:51:28] "GET /trends HTTP/1.1" 200 -
+2025-05-07 12:59:16,618 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-07 12:59:16,636 - INFO - Added job "retrain_model" to job store "default"
+2025-05-07 12:59:16,636 - INFO - Scheduler started
+2025-05-07 13:01:13,208 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-07 13:01:13,209 - INFO - Added job "retrain_model" to job store "default"
+2025-05-07 13:01:13,209 - INFO - Scheduler started
+2025-05-07 13:01:13,320 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://172.16.12.162:5000
+2025-05-07 13:01:13,320 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 13:01:13,320 - INFO -  * Restarting with stat
+2025-05-07 13:01:22,771 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-07 13:01:22,771 - INFO - Added job "retrain_model" to job store "default"
+2025-05-07 13:01:22,771 - INFO - Scheduler started
+2025-05-07 13:01:22,783 - WARNING -  * Debugger is active!
+2025-05-07 13:01:22,783 - INFO -  * Debugger PIN: 422-478-317
+2025-05-07 13:02:21,494 - INFO - 172.16.12.162 - - [07/May/2025 13:02:21] "GET / HTTP/1.1" 200 -
+2025-05-07 13:02:21,743 - INFO - 172.16.12.162 - - [07/May/2025 13:02:21] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-07 13:02:22,857 - INFO - 172.16.12.162 - - [07/May/2025 13:02:22] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-07 13:02:24,321 - INFO - 172.16.12.162 - - [07/May/2025 13:02:24] "GET /favicon.ico HTTP/1.1" 200 -
+2025-05-07 13:12:46,184 - INFO - 172.16.12.162 - - [07/May/2025 13:12:46] "POST /save_survey HTTP/1.1" 200 -
+2025-05-07 13:13:12,265 - INFO - 172.16.12.162 - - [07/May/2025 13:13:12] "POST /save_preferences HTTP/1.1" 200 -
+2025-05-07 13:13:46,279 - INFO - Prediction for user 172.16.12.162: Model risk=medium, Rule-based risk=medium
+2025-05-07 13:13:54,173 - INFO - 172.16.12.162 - - [07/May/2025 13:13:54] "POST /get_response HTTP/1.1" 200 -
+2025-06-24 15:59:30,747 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-24 16:01:48,482 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-24 16:01:54,631 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-24 16:02:46,946 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:02:46,946 - INFO - Added job "retrain_model" to job store "default"
+2025-06-24 16:02:46,946 - INFO - Scheduler started
+2025-06-24 16:02:46,990 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.8.15:5000
+2025-06-24 16:02:46,991 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-24 16:02:46,991 - INFO -  * Restarting with stat
+2025-06-24 16:03:04,604 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:03:04,604 - INFO - Added job "retrain_model" to job store "default"
+2025-06-24 16:03:04,604 - INFO - Scheduler started
+2025-06-24 16:03:04,604 - WARNING -  * Debugger is active!
+2025-06-24 16:03:04,622 - INFO -  * Debugger PIN: 653-435-910
+2025-06-24 16:04:15,719 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:04:15,719 - INFO - Added job "retrain_model" to job store "default"
+2025-06-24 16:04:15,719 - INFO - Scheduler started
+2025-06-24 16:04:15,743 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.8.15:5000
+2025-06-24 16:04:15,743 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-24 16:04:15,743 - INFO -  * Restarting with stat
+2025-06-24 16:04:32,339 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:04:32,339 - INFO - Added job "retrain_model" to job store "default"
+2025-06-24 16:04:32,339 - INFO - Scheduler started
+2025-06-24 16:04:32,360 - WARNING -  * Debugger is active!
+2025-06-24 16:04:32,361 - INFO -  * Debugger PIN: 653-435-910
+2025-06-24 16:05:17,675 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:05:17,678 - INFO - Added job "retrain_model" to job store "default"
+2025-06-24 16:05:17,678 - INFO - Scheduler started
+2025-06-24 16:05:17,693 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.8.15:5000
+2025-06-24 16:05:17,693 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-24 16:05:17,693 - INFO -  * Restarting with stat
+2025-06-24 16:05:33,093 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-24 16:05:33,093 - INFO - Added job "retrain_model" to job store "default"
+2025-06-24 16:05:33,093 - INFO - Scheduler started
+2025-06-24 16:05:33,116 - WARNING -  * Debugger is active!
+2025-06-24 16:05:33,116 - INFO -  * Debugger PIN: 653-435-910
+2025-07-09 11:44:49,927 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-09 11:44:49,927 - INFO - Added job "retrain_model" to job store "default"
+2025-07-09 11:44:49,927 - INFO - Scheduler started
+2025-07-09 11:44:49,960 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.8.15:5000
+2025-07-09 11:44:49,961 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-09 11:44:49,963 - INFO -  * Restarting with stat
+2025-07-09 11:45:06,227 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-09 11:45:06,227 - INFO - Added job "retrain_model" to job store "default"
+2025-07-09 11:45:06,227 - INFO - Scheduler started
+2025-07-09 11:45:06,227 - WARNING -  * Debugger is active!
+2025-07-09 11:45:06,248 - INFO -  * Debugger PIN: 653-435-910
+2025-07-09 11:49:37,422 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-09 11:49:37,422 - INFO - Added job "retrain_model" to job store "default"
+2025-07-09 11:49:37,422 - INFO - Scheduler started
+2025-07-09 11:49:37,446 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.8.15:5000
+2025-07-09 11:49:37,446 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-09 11:49:37,446 - INFO -  * Restarting with stat
+2025-07-09 11:49:54,829 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-09 11:49:54,829 - INFO - Added job "retrain_model" to job store "default"
+2025-07-09 11:49:54,829 - INFO - Scheduler started
+2025-07-09 11:49:54,847 - WARNING -  * Debugger is active!
+2025-07-09 11:49:54,856 - INFO -  * Debugger PIN: 653-435-910
+2025-07-09 11:51:14,435 - INFO - 192.168.8.15 - - [09/Jul/2025 11:51:14] "GET / HTTP/1.1" 200 -
+2025-07-09 11:51:14,716 - INFO - 192.168.8.15 - - [09/Jul/2025 11:51:14] "GET /static/styles.css HTTP/1.1" 200 -
+2025-07-09 11:51:14,893 - INFO - 192.168.8.15 - - [09/Jul/2025 11:51:14] "GET /static/script.js HTTP/1.1" 200 -
+2025-07-09 11:51:14,969 - INFO - 192.168.8.15 - - [09/Jul/2025 11:51:14] "GET /favicon.ico HTTP/1.1" 200 -
